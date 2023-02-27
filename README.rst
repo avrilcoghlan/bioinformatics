@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
-=======================================
+Bioinformatics
+==============
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is an introduction to bioinformatics and genome analysis.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://bioinformatics.readthedocs.io/en/latest/
+
+
